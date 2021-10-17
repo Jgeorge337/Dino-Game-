@@ -353,7 +353,7 @@
                 'hidden';
 
             this.adjustDimensions();
-            this.setSpeed(6000);
+            this.setSpeed(100);
 
             this.containerEl = document.createElement('div');
             this.containerEl.className = Runner.classes.CONTAINER;
